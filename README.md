@@ -2,7 +2,7 @@
 
 ![CI status](https://img.shields.io/badge/python-3.0-orange.svg) ![](https://img.shields.io/badge/Version-1.0-green.svg)
 
-Is a little Python Script for Analize Pi Log file.  Get in input a file.txt e search Error/Warning/Pi Point not Found.
+Is a little Python Script for Analize Osisoft Pi Log file.  Get in input a file.txt e search Error/Warning/Pi Point not Found.
 After Analyzing, it create a xlsx file with the report.
 
 ## Installation
