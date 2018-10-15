@@ -34,3 +34,7 @@ NB.Default it analize File individually
 
 ## Contribute
 All contributions are always welcome
+
+
+## Powered by
+    Antonino Di Carlo
